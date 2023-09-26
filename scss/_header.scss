@@ -1,0 +1,31 @@
+.logo img{
+  width: 200px;
+  padding-left: 5%;
+}
+.collapse {
+  justify-content: center;
+  align-items: center; 
+}
+.nav {
+  &-link{
+    color: aliceblue;
+  font-weight: 500;
+  font-size: medium;
+  }
+  &-item{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(53, 52, 80);
+  }
+
+}
+.carousel{
+  padding: 40px 20px 60px 20px;
+  &-caption{
+    background: none;
+  }
+  &-indicators{
+    background: none;
+  }
+  
+}

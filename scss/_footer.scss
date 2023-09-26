@@ -1,0 +1,21 @@
+footer{
+    height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  margin-top: 00px;
+  a {
+    font-size: larger;
+   }
+}
+.redes {
+    display: inline-block;
+    font: normal normal normal 100px FontAwesome;
+   font-size: 40px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 20px;
+    background-color: black;
+   }
